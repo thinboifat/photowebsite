@@ -16,3 +16,12 @@
 .Middle {
     text-align: center;
 }
+
+#facebook, #facebook:visited  {
+    color: #4965A0;
+}
+
+#services {
+    background: url(http://subtlepatterns.com/patterns/photography.png);
+
+}

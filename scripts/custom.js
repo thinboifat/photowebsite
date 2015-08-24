@@ -4,14 +4,14 @@
  * and open the template in the editor.
  */
 
-
+var clicks = 0;
 var myCenter=new google.maps.LatLng(50.7947319,-1.0909327);
 
 function initialize()
 {
 var mapProp = {
   center:myCenter,
-  zoom:14,
+  zoom:13,
   mapTypeId:google.maps.MapTypeId.ROADMAP
   };
 
@@ -22,7 +22,37 @@ var marker=new google.maps.Marker({
   });
 
 marker.setMap(map);
+
+
+var infowindow = new google.maps.InfoWindow({
+  content:"<h4>We are Here!</h4><p> Room 1.08, Eldon Building</p>"
+  });
+
+  infowindow.open(map,marker)
+
+  google.maps.event.addListener(marker, 'click', function() {
+  infowindow.open(map,marker);
+  });
+
+  
+
+// Zoom when clicking on marker
+google.maps.event.addListener(marker,'click',function() {
+  if (clicks != 1) {
+  map.setZoom(16);
+  clicks = 1;
+  }
+  else { 
+  map.setZoom(13);
+  clicks = 0;
+  }
+  map.setCenter(marker.getPosition());
+  });
+
+  
+  
 }
+
 google.maps.event.addDomListener(window, 'load', initialize);
 
 

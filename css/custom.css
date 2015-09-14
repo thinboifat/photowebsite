@@ -1,4 +1,4 @@
-﻿body {
+body {
 }
 
 .Logo {
@@ -22,9 +22,8 @@
 }
 
 
-#services {
+#services, #meettheteam {
     background: url(photography.png);
-
 }
 
 .maps {
@@ -45,5 +44,34 @@
 
 #flickr:hover  {
     color: #FF0084 !important;
+}
+
+
+.Committee {
+    text-align: center;
+    font-weight: bold;
+}
+
+.CommitteePos {
+    text-align: center;
+}
+
+.CommitteePhoto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5%;
+    
+}
+
+.BioButtons {
+    vertical-align: initial !important;
+}
+
+.Centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 

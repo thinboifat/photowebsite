@@ -1,6 +1,16 @@
 body {
 }
 
+.Faq {
+	font-size: 22px;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+	
+	}
+
+	.left {
+		text-align: left;
+	}
+	
 .Logo {
     height:100%;
     width: auto;

@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Developed By Marcus Cole. Textures from subtlepatterns.com -->
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="University of Portsmouth Photography Society.
+              We offer students amazing photographic opportunities, and everyone
+              else great photographers for hire." />
+    <meta name="keywords" content="portsmouth university photography society" />
+    <meta name="author" content="Marcus Cole">
+
+    <title>Portsmouth Photography Society</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="css/blueimp-gallery.min.css">
+    <link rel="stylesheet" href="css/bootstrap-image-gallery.min.css">
+
+    <!-- Custom Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" type="text/css">
+    
+    <link rel="icon" type="image/png" href="img/photofavicon.png">
+    
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="css/animate.min.css" type="text/css">
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="css/custom.css" type="text/css">
+
+    <!-- Custom Stuff -->
+    <link rel="stylesheet" href="css/creative.css" type="text/css">
+    <script src="http://maps.googleapis.com/maps/api/js"></script>
+    <script src="scripts/custom.js"></script>
+    <script src="scripts/twitterbutton.js" type="text/javascript"></script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top">
+
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top"><img src="newphotologoclear.png" alt="" class="Logo" /></a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a class="page-scroll" href="#about">About Us</a>
+                    </li>
+					<li>
+                        <a class="page-scroll" href="#hire">Hire A Photographer</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">Services</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#portfolio">Our Images</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#meettheteam">The Team</a>
+                    </li>
+					
+					<li>
+                        <a class="page-scroll" href="#faq">FAQ</a>
+                    </li>
+					
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <header id="header">
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1>Welcome To Portsmouth University Photography Society</h1>
+                <hr>
+                <p>Our society offers students leading class opportunities with photography lessons, equipment hire, trips and events. </p>
+				<a href="#newStudents" style="margin-bottom: 4%" class="btn btn-primary btn-xl page-scroll">I'm A Fresher!</a>
+                <a href="#about" style="margin-bottom: 4%" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
+				
+            </div>
+        </div>
+    </header>
+
+	<section id="newStudents">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Attention - Calling All Freshers! </h2>
+                    <hr class="dark">
+                    <p class="">New to Portsmouth University? Great, you're going to love it!</p>
+                    <p class="">One of the best parts of University, is joining a society. No matter which one(s) you choose, you'll meet some great people, and share some awesome experiences. </p>
+                    <p class="">There is a society to suit everyone, and here's why you should choose to join us...</p>
+                </div>
+            </div>
+        </div>
+    </section>
+	
+    <section class="bg-primary" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">A Society For Students - By Students. </h2>
+                    <hr class="light">
+                    <p class="text-faded">The Portsmouth University Photography Society is put simply, a group of students with a passion for photography. Members benefit from photography tutorials, trips and social activities; and once you become a paid member, unlimited equipment hire too.</p>
+                    <p class="text-faded">Everyone is welcome, and each week we offer members something new. So whether you want to start taking great photos, perfect your skills, or simply show off your talents, why not give us a visit? </p>
+                   		
+                    <hr class="light">
+                    <p class="text-faded">We have loads of events coming up, including photo walks, city visits and cool creative photoshoots. Come find us at freshers fayre, or simply come along to a meeting. Don't have anyone to come with? Neither did our president, and he turned out ok...</p>
+                    
+                    
+                </div>
+            </div>
+			</div>
+    </section>
+			
+	<section class="bg-dark">
+        <div class="container">
+            <div class="row" id="hire">
+                <div class="col-lg-8 col-lg-offset-2 text-center Margin">
+                    <h2 class="section-heading">Great Photographers Come To Us. <br class="Margin"> Now Let One Come To You. </h2>
+                    <hr class="light">
+                    <p class="text-faded">Want to hire a photographer? You've come to the right place. Whether you're a student organisation or a bride to be, we can provide a photographer service for events big and small.</p>
+					<p class="text-faded">Our dedicated team of photographers are budding professionals - and it shows. You get a professional level of service, without the price tag.</p>
+                    <a href="#contact" class="btn btn-default btn-xl page-scroll">Get A Quote</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">At Your Service</h2>
+                    <hr class="primary">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-camera wow bounceIn text-primary"> </i>
+                        <h3>Equipment Loans</h3>
+                        <p class="text-muted">DSLR cameras and accessories. Free of charge.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-eye wow bounceIn text-primary" data-wow-delay=".1s"></i>
+                        <h3>Develop A Keen Eye</h3>
+                        <p class="text-muted">Learn to take better shots and show us your talents.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-trophy wow bounceIn text-primary" data-wow-delay=".2s"></i>
+                        <h3>Pixels Make Prizes.</h3>
+                        <p class="text-muted">Fortnightly competitions that anyone can enter.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-heart wow bounceIn text-primary" data-wow-delay=".3s"></i>
+                        <h3>Network</h3>
+                        <p class="text-muted">Develop professional and personal relationships with like-minded photographers.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="no-padding" id="portfolio">
+        <div class="container-fluid">
+            <div class="row no-gutter" id="links">
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/HighRes/creative-1.JPG" title="Steel Wool Spinning At Southsea Bandstand" data-gallery class="portfolio-box">
+                        <img src="img/portfolio/1.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    
+                                </div>
+                                <div class="project-name">
+                                    Creative
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <!-- Add Category 1 Images Here -->
+                    <a href="img/portfolio/HighRes/creative-2.JPG" title="Ghostly Silhouette" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/creative-3.JPG" title="Stick Man Light Painting" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/creative-4.JPG" title="'Slick'" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/creative-5.JPG" title="Life" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/creative-6.JPG" title="Dancing In Southsea" data-gallery class="portfolio-box"></a>
+                    
+                
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/HighRes/animals-1.JPG" title="Always Investigating" data-gallery class="portfolio-box">
+                        <img src="img/portfolio/2.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    
+                                </div>
+                                <div class="project-name">
+                                    Animals & Nature
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                    
+                    <!-- Add Category 2 Images Here -->
+                    <a href="img/portfolio/HighRes/animals-2.JPG" title="Sardinian Follower" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/animals-3.JPG" title="Stare" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/animals-4.JPG" title="White Horse" data-gallery class="portfolio-box"></a>
+                    
+                    
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/HighRes/portraits1.jpg" title="Travelling To The Isle Of Wight" data-gallery class="portfolio-box">
+                        <img src="img/portfolio/3.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    
+                                </div>
+                                <div class="project-name">
+                                    Portraits
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                    
+                    <!-- Add Category 3 Images Here -->
+                    <a href="img/portfolio/HighRes/portraits-2.JPG" title="Howard By Sea" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/portraits-3.JPG" title="The Sardinian Man" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/portraits-4.JPG" title="Thought" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/portraits-5.JPG" title="Gaze" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/portraits-6.JPG" title="Howie Stares" data-gallery class="portfolio-box"></a>
+                    
+                    
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/HighRes/events-1.JPG" title="Cricket's End Of Year Meal" data-gallery class="portfolio-box">
+                        <img src="img/portfolio/4.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    
+                                </div>
+                                <div class="project-name">
+                                    Events
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                    <!-- Add Category 4 Images Here -->
+                    <a href="img/portfolio/HighRes/events-2.JPG" title="Cricket Squad 2015" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/events-3.JPG" title="Gamescom 2013" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/events-4.JPG" title="Motorcycle Guest" data-gallery class="portfolio-box"></a>
+                    
+                    
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/HighRes/landscapes-1.JPG" title="Annual London Photohunt" data-gallery class="portfolio-box">
+                        <img src="img/portfolio/5.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    
+                                </div>
+                                <div class="project-name">
+                                    Landscapes
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                    
+                    <!-- Add Category 5 Images Here -->
+                    <a href="img/portfolio/HighRes/landscapes-2.JPG" title="Waterfalls" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/landscapes-3.JPG" title="Southsea Fisherman" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/landscapes-4.JPG" title="Asian Motorcycles" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/landscapes-5.JPG" title="Victory" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/landscapes-6.JPG" title="The Fountain" data-gallery class="portfolio-box"></a>
+                    
+                    
+                <div class="col-lg-4 col-sm-6">
+                    <a href="img/portfolio/HighRes/trips-1.JPG" title="Mountain Climbing In Sardinia" data-gallery class="portfolio-box">
+                        <img src="img/portfolio/6.jpg"  class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    
+                                </div>
+                                <div class="project-name">
+                                    Trips
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                    
+                    <!-- Add Category 6 Images Here -->
+                    <a href="img/portfolio/HighRes/trips-2.JPG" title="The Canyon" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/trips-3.JPG" title="London Bridge" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/trips-4.JPG" title="Christmas Meal 2014" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/trips-5.JPG" title="Tavolora - Italy 2014" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/trips-6.JPG" title="Isle Of Wight 2015" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/trips-7.JPG" title="Guy Fawkes 2014" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/trips-8.JPG" title="Portchester Castle 2015" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/trips-9.JPG" title="Night Photowalk" data-gallery class="portfolio-box"></a>
+                    <a href="img/portfolio/HighRes/trips-10.JPG" title="Camera Theft" data-gallery class="portfolio-box"></a>
+            </div>
+        </div>
+    </section>
+
+    <aside class="bg-dark">
+        <div class="container text-center">
+            <div class="call-to-action">
+                <h2>Join The Society!</h2>
+                <div class="service-box">
+                    <h3 class="text-muted">Its Only Costs 9 Pounds</h3><br>
+                    </div>
+                
+                <a href="https://www.upsu.net/activities/societies/a-z-societies/film-photo.php" class="btn btn-default btn-xl wow tada">Join Us!</a>
+                
+            </div>
+        </div>
+    </aside>
+    
+    
+     
+      
+       <section id="meettheteam">
+               <div class="container">
+            <div class="row">
+                
+                <div class="col-lg-12">
+                    <h2 class="section-heading text-center">Meet The Team</h2>
+                <div class="col-lg-4 col-xs-12">
+                <h3 class="Committee">Marcus Cole</h3>
+                <h3 class="CommitteePos">President</h3>
+                <img class="CommitteePhoto" src="img/team/marcus.JPG" alt="Photo of Marcus Cole, young with brown hair and glasses.">
+                <p>Hi, I'm Marcus. I've been snapping away for years, currently with a Canon 7D Mk II.
+                    Photography keeps me active, and helps me see the world. While I specialise in
+                    portraits, I enjoy all photography, and regularly shoot events.</p>
+                <p class='BioButtons'><a href="https://twitter.com/PcCentric" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @PcCentric</a>
+                
+                <a href="http://www.flickr.com/photos/106968774@N04/" title="See my photos on Flickr!" target="_blank"><img src="https://s.yimg.com/pw/images/goodies/white-see-my-photos.png" width="147" height="26" alt=""></a>
+                </p>
+                </div>
+
+                <div class="col-lg-4 col-xs-12">
+                <h3 class="Committee">Scott Allaway</h3>
+                <h3 class="CommitteePos">Vice President</h3>
+                <img class="CommitteePhoto" src='img/team/scott.JPG' alt="Photo of Scott Allaway, young with fair hair.">
+                <p>Hi I'm Scott, I've been with the society for two years and have been taking photos
+                    for the best part of 5 years. I currently use a Sony A390 and an array of 35mm and
+                    120 film cameras. My speciality is 
+                    long exposures but I love to try my hand at anything.</p>
+                <p class='BioButtons'>
+                    <a href="https://twitter.com/ScottAllaway1" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @ScottAllaway1</a>
+                    <a href="http://www.flickr.com/photos/scottallaway" title="See my photos on Flickr!" target="_blank"><img src="https://s.yimg.com/pw/images/goodies/white-see-my-photos.png" width="147" height="26" alt=""></a></p>
+
+                </div>
+
+                <div class="col-lg-4 col-xs-12">
+                <h3 class="Committee">Gareth Jones</h3>
+                <h3 class="CommitteePos">Treasurer and Publicity</h3>
+                <img class="CommitteePhoto" src='img/team/gareth.jpg' alt="Black and White Photo of Gareth Jones, young with brown hair.">
+                <p>Hello, I’m Gareth. I have been taking pictures for a long time but bought my first and current DSLR, a Canon 60D, in 2012.
+                    I enjoy taking all kinds of photos but my main focus is landscape photography. I also organise events photography. Should you need any help with anything
+                    photography related I will help you.</p>
+                <p class='BioButtons'>
+                    <a class="Centered" href="http://www.flickr.com/photos/gareththomasjones/" title="See my photos on Flickr!" target="_blank"><img src="https://s.yimg.com/pw/images/goodies/white-see-my-photos.png" width="147" height="26" alt=""></a></p>
+
+            </div>
+            
+            <div class="col-lg-4 col-xs-12">
+            <h3 class="Committee">Howard Keats</h3>
+            <h3 class="CommitteePos">Equipment Manager</h3>
+            <img class="CommitteePhoto" src='img/team/howard.jpg' alt="Photo of Howard Keats, young with brown hair and glasses.">
+            <p>Howard here. I love street photography, its in my blood, heart and soul. I shoot with a Fuji mirrorless. Once you have gone mirrorless, you never go back!</p>
+            <p class='BioButtons'><a href="https://twitter.com/howardkeats" class="twitter-follow-button Centered" data-show-count="false" data-size="large">Follow @howardkeats</a>
+                 <iframe class="" frameborder="0" scrolling="no" allowtransparency="true" height="25" width="117" src="http://platform.tumblr.com/v1/follow_button.html?button_type=2&tumblelog=howardkeats&color_scheme=dark"></iframe>
+            </p>
+            </div>
+            
+            <div class="col-lg-4 col-xs-12">
+            <h3 class="Committee">Mickey Fenuku</h3>
+            <h3 class="CommitteePos">Social Secretary</h3>
+            <img class="CommitteePhoto" src='img/team/mickey.JPG' alt="Photo of Mickey Fenuku, young with an afro hairstyle.">
+            <p>Michael here, 5 years of experience, I snap because I love photography and its in my bloodline. Currently with a Canon 6D.</p>
+             <p class="BioButtons">
+                <iframe class="Centered" frameborder="0" scrolling="no" allowtransparency="true" height="25" width="117" src="http://platform.tumblr.com/v1/follow_button.html?button_type=2&tumblelog=manbehindthecamera&color_scheme=dark"></iframe>
+            </p>
+            
+            </div>
+            
+            <div class="col-lg-4 col-xs-12">
+            <h3 class="Committee">Liz Hutchins</h3>
+            <h3 class="CommitteePos">Secretary</h3>
+            <img class='CommitteePhoto' src='img/team/liz.jpg' alt="Photo of Liz Hutchins, a young lady with brown, shoulder length hair.">
+            <p>Hi I'm Liz. I currently shoot with a Sony NEX-3N and enjoy a range of photography including sunsets and double chinned snapchats. Also cats.</p>
+            <p class='BioButtons'>
+            <a href="https://twitter.com/lgh95" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @lgh95</a>
+            <a href="http://www.flickr.com/photos/lgh95/" title="See my photos on Flickr!" target="_blank"><img src="https://s.yimg.com/pw/images/goodies/white-see-my-photos.png" width="147" height="26" alt=""></a></p>
+            
+            </div>
+            </div>
+            </div>
+        </div>
+            
+        </section>
+    
+    <section id="contact">
+        <div class="container ">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading"> Get In Touch.</h2>
+                    <hr class="primary">
+                    <p class="Middle">Ready to get involved, or use our services? That's great! Send us an email, or come and see us. </p>
+                </div>
+                <div class="col-lg-4 col-lg-offset-2 text-center Margin">
+                    <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+                    <p><a href="mailto:filmandphoto@upsu.net">filmandphoto@upsu.net</a></p>
+                </div>
+                <div class="col-lg-6 text-center">
+                    <div class="row">
+                        <div class="col-lg-2 col-xs-2 col-xs-offset-4 col-lg-offset-4 Margin">
+                            <a href='https://twitter.com/UPSUPhotoSoc' id="twitter"><i class="fa fa-twitter fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                        </div>
+                        <div class="col-lg-2 col-xs-2 Margin">
+                            <a href='https://instagram.com/uopphotographysociety' id="instagram"><i class="fa fa-instagram fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-2 col-xs-2 col-xs-offset-4 col-lg-offset-4 Margin">
+                            <a href="https://www.facebook.com/groups/portsmouthuniphotography/" id="facebook"><i class="fa fa-facebook-official fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                        </div>
+                        <div class="col-lg-2 col-xs-2  Margin">
+                            <a href='https://www.flickr.com/groups/2562988@N24/' id="flickr"><i class="fa fa-flickr fa-3x wow bounceIn" data-wow-delay=".1s"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+				
+                <div class='col-lg-8 col-lg-offset-2 Margin'>
+                   <div id="googleMap" style="width:100%;height:350px;"></div>   
+                </div>
+				
+				<div class='col-lg-8 col-lg-offset-2 Margin'>
+                   <div>
+						<p>Want to come and see us? Don't worry, there's no commitment. We meet every Tuesday at 7pm in Eldon Building - Room 1.08. Everyone is welcome! </p>
+				   </div>   
+                </div>
+				
+            </div>
+            <div class="row">
+                <!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
+                <div id="blueimp-gallery" class="blueimp-gallery  blueimp-gallery-controls" data-use-bootstrap-modal="false">
+                    <!-- The container for the modal slides -->
+                    <div class="slides"></div>
+                    <!-- Controls for the borderless lightbox -->
+                    <h3 class="title"></h3>
+                    <a class="prev">‹</a>
+                    <a class="next">›</a>
+                    <a class="close">×</a>
+                    <a class="play-pause"></a>
+                    <ol class="indicator"></ol>
+                    <!-- The modal dialog, which will be used to wrap the lightbox content -->
+                    <div class="modal fade">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" aria-hidden="true">&times;</button>
+                                    <h4 class="modal-title"></h4>
+                                </div>
+                                <div class="modal-body next"></div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default pull-left prev">
+                                        <i class="glyphicon glyphicon-chevron-left"></i>
+                                        Previous
+                                    </button>
+                                    <button type="button" class="btn btn-primary next">
+                                        Next
+                                        <i class="glyphicon glyphicon-chevron-right"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+            </div>
+        </div>
+    </section>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/jquery.fittext.js"></script>
+    <script src="js/wow.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/creative.js"></script>
+
+    <script src="js/jquery.blueimp-gallery.min.js"></script>
+    <script src="js/bootstrap-image-gallery.min.js"></script>
+    
+</body>
+
+</html>
+

@@ -1,6 +1,10 @@
 body {
 }
 
+#upcoming {
+	background: url(photography.png);
+}
+
 .Faq {
 	font-size: 22px;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;

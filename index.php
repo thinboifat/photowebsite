@@ -71,6 +71,9 @@
                         <a class="page-scroll" href="#about">About Us</a>
                     </li>
 					<li>
+                        <a class="page-scroll" href="#upcoming">Upcoming Events</a>
+                    </li>
+					<li>
                         <a class="page-scroll" href="#hire">Hire A Photographer</a>
                     </li>
                     <li>
@@ -141,6 +144,24 @@
             </div>
 			</div>
     </section>
+			
+	<section class="" id="upcoming">
+        <div class="container">
+            <div class="row" >
+			<div class="col-lg-8 col-lg-offset-2 text-center">
+				<h2 class="section-heading"> Upcoming Events </h2>
+                <hr class="dark">
+				<script class="ai1ec-widget-placeholder" data-widget="ai1ec_superwidget" data-action="posterboard">
+				  (function(){var d=document,s=d.createElement('script'),
+				  i='ai1ec-script';if(d.getElementById(i))return;s.async=1;
+				  s.id=i;s.src='http://live-timely-b05894e120.time.ly/?ai1ec_js_widget';
+				  d.getElementsByTagName('head')[0].appendChild(s);})();
+				  </script>
+				  </div>
+				  </div>
+        </div>
+    </section>		
+			
 			
 	<section class="bg-dark">
         <div class="container">
@@ -447,6 +468,31 @@
             
         </section>
     
+	<section id="faq" class="bg-dark">
+        <div class="container">
+            <div class="row" id="faq">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading"> Frequently Asked Questions</h2>
+                    <hr class="light">
+                    <p class="Faq">What Does The Society Do?</p>
+					<p class="text-faded">We form a large group of friendly photographers, that get together to learn new skills, and put them to the test. We have Tuesday sessions each week, as well as bi-monthly trips at weekends.</p>
+					<p class="Faq">Is It Just Taking Photos?</p>
+					<p class="text-faded">No. We alternate meetings around everyone's interests. Some week's we learn new skills, others we go ice skating. It's up to you what you do in-between, though we do have competitions if you are a happy snapper! </p>
+					<p class="Faq">How Often Do You Meet?</p>
+					<p class="text-faded">Every week. You can find out what's happening on our Facebook page, and the full schedule will soon be available to view on this website.</p>
+					<p class="Faq">Where Do You Meet?</p>
+					<p class="text-faded">While it changes depending on the event we are running, we meet in room 1.08 - Eldon building, more or less every week. Check your emails and our Facebook page for the latest information.  </p>
+					<p class="Faq">Do I Need To Attend Every Meeting?</p>
+					<p class="text-faded">No, you can attend as often as you like. If you're busy - you're busy.</p>
+					<p class="Faq">How Do I Join?</p>
+					<p class="text-faded">You can attend the first few meetings free of charge to see if you like us! After that, simply sign up with the link below for £9. Note that you cannot attend our trips, or borrow equipment until you are a paid member.</p>
+					<a href="https://www.upsu.net/activities/societies/a-z-societies/film-photo.php" class="btn btn-default btn-xl wow tada">Join Us!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+	
+	
     <section id="contact">
         <div class="container ">
             <div class="row">

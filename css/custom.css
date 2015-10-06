@@ -1,6 +1,10 @@
 body {
 }
 
+.timely-event-page-header {
+color: black;
+}
+
 #upcoming {
 	background: url(photography.png);
 }
